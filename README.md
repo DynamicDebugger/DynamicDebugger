@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dynamicdebugger&label=Profile%20views&color=0e75b6&style=flat" alt="dynamicdebugger" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" style="position: relative; z-index: 1;" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 ## 🚀 About Me
 - 🎓 Final Year Computer Science and Engineering Student  
@@ -11,10 +11,10 @@
 - 🌱 Always learning, always building. Passionate about Java, Spring Boot, and Full-Stack development!
 - 🔭 I’m currently working on **ride-share application**
 - 🌱 I’m currently learning **Flutter for Mobile Application development**
-- 👯 I’m looking to collaborate on **full-stack Java projects**
+- 👯 I’m looking to collaborate on **Java & full-stack projects**
 - 👨‍💻 All of my projects are available at [https://dynamicdebugger.github.io/PortFolio/](https://dynamicdebugger.github.io/PortFolio/)
 - 📫 How to reach me **balasubramani285@gmail.com**
-- 📄 Know about my experiences [View CV](https://drive.google.com/file/d/1I-XwwAoAQy15BeISDzW9U5Pf-oUti090/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1I-XwwAoAQy15BeISDzW9U5Pf-oUti090/view?usp=sharing" target="_blank">View CV</a>
 
 ---
 
