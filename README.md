@@ -59,7 +59,7 @@
 ---
 
 ## 📈 GitHub Stats
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=dynamicdebugger&show_icons=true&theme=radical" alt="GitHub Stats" />
