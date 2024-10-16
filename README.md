@@ -104,3 +104,12 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
   </a>
 </p>
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/dynamicdebugger/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=dynamicdebugger&padding=30&skills=java,javascript,html,css,react,springboot,flutter'>
+  </a>
+</details>
+
