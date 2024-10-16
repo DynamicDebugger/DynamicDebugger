@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balasubramani E</h1>
 <h3 align="center">A passionate Computer Science student with expertise in Java, React.js, Spring Boot, and SQL, I thrive on challenges and enjoy building impactful, scalable solutions.</h3>
 
-<p align="left"> <a href="https://twitter.com/ishhookayy" target="blank"><img src="https://img.shields.io/twitter/follow/ishhookayy?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
-
 ---
 
 ## 🔭 Current Work
@@ -16,22 +14,18 @@
 ---
 
 ## 🛠 Tech Stack
-### Programming Languages:
-- Java, JavaScript, C
+- **Programming Languages**: Java, JavaScript, C
 
-### Web Development:
-- React.js, Spring Boot, REST APIs, HTML, CSS
+- **Web Development**: React.js, Spring Boot, REST APIs, HTML, CSS
 
-### Databases:
-- SQL, PostgreSQL, MongoDB
+- **Databases**: SQL, PostgreSQL, MongoDB
 
-### Tools & Technologies:
-- Git, Postman, Firebase
+- **Tools & Technologies**: Git, Postman, Firebase
 
 ---
 
 ## 💼 Experience
-- **Software Developer Intern at HCLTech** (Jan 2024 - May 2024): Developed a full-stack banking application using **Spring Boot** and web technologies.
+- **Project Developer Intern at HCLTech** (Jan 2024 - May 2024): Developed a full-stack banking application using **Spring Boot** and web technologies.
 
 ---
 
@@ -57,11 +51,6 @@
 
 ---
 
-## 📱 Mobile App Development
-- **Flutter**: Developing responsive cross-platform mobile applications.
-
----
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Balasubramani%20E-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/balasubramani-e)
 [![Twitter](https://img.shields.io/badge/Twitter-@ishhookayy-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ishhookayy)
@@ -71,6 +60,9 @@
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dynamicdebugger&show_icons=true&theme=radical)
+
+## 🖥 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamicdebugger&layout=compact&theme=radical)
 
 ---
 
