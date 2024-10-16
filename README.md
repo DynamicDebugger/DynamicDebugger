@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dynamicdebugger&label=Profile%20views&color=0e75b6&style=flat" alt="dynamicdebugger" /> </p>
 
-<img align="right" style="position: relative; z-index: 1;" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right"  alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 ### 🚀 About Me
 - 🎓 Final Year Computer Science and Engineering Student  
