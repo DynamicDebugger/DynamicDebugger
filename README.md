@@ -14,10 +14,9 @@
 - 👯 I’m looking to collaborate on **Java & full-stack projects**
 - 👨‍💻 All of my projects are available at [https://dynamicdebugger.github.io/PortFolio/](https://dynamicdebugger.github.io/PortFolio/)
 - 📫 How to reach me **balasubramani285@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1I-XwwAoAQy15BeISDzW9U5Pf-oUti090/view?usp=sharing" target="_blank">View CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1I-XwwAoAQy15BeISDzW9U5Pf-oUti090/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV</a>
 
 ---
-
 ### 📝 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/0" alt="Recent Article 0"> 
