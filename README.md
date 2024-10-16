@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **balasubramani285@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I-XwwAoAQy15BeISDzW9U5Pf-oUti090/view?usp=sharing](https://drive.google.com/file/d/1I-XwwAoAQy15BeISDzW9U5Pf-oUti090/view?usp=sharing)
+- 📄 Know about my experiences [Profile](https://drive.google.com/file/d/1I-XwwAoAQy15BeISDzW9U5Pf-oUti090/view?usp=sharing)
 
 ## 🚀 About Me
 
