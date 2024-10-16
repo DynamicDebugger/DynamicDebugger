@@ -2,10 +2,14 @@
 <h3 align="center">A passionate Computer Science student with expertise in Java, React.js, Spring Boot, and SQL, I thrive on challenges and enjoy building impactful, scalable solutions.</h3>
 
 ---
+## 🚀 About Me
+🎓 **Final Year BE Computer Science Student**  
+📍 Sathyabama Institute of Science and Technology, Chennai  
+🌱 Always learning, always building.
 
 ## 🔭 Current Work
 - **Ride-Share Application**: Leveraging full-stack development skills to build a scalable ride-share app.
-- **Learning**: Flutter for mobile application development to create cross-platform apps with smooth UIs.
+- **Learning**: Flutter for mobile application development to create a cross-platform app for the ride-share application with smooth UIs.
 
 ## 🌐 My Portfolio & Projects
 - **Portfolio**: [Check out my work](https://dynamicdebugger.github.io/PortFolio/)
