@@ -20,10 +20,10 @@
 ### 📝 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/1" alt="Recent Article 1" width="500" height="550">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/1" alt="Recent Article 1">
 </a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/0" alt="Recent Article 0" width="500" height="550">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@balasubramani285/0" alt="Recent Article 0">
 </a>
 
 <!-- BLOG-POST-LIST:END -->
