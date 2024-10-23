@@ -30,21 +30,31 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ishhookayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishhookayy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/balasubramani-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balasubramani-e" height="30" width="40" /></a>
+<a href="https://medium.com/@balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@balasubramani285" height="30" width="40" /></a>
+</p>
 
-    <h3>Connect with me:</h3>
-    <p>
-      <a href="https://twitter.com/ishhookayy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishhookayy" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/balasubramani-e" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balasubramani-e" height="30" width="40" /></a>
-      <a href="https://medium.com/@balasubramani285" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@balasubramani285" height="30" width="40" /></a>
-    </p>
-    <h3>Online Coding Profiles</h3>
-    <p>
-      <a href="https://www.hackerrank.com/balasubramani285" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balasubramani285" height="30" width="40" /></a>
-      <a href="https://www.leetcode.com/balasubramani285" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balasubramani285" height="30" width="40" /></a>
-      <a href="https://auth.geeksforgeeks.org/user/balasubramani285" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="balasubramani285" height="30" width="40" /></a>
-    </p>
-
-
+<h3 align="left">Online Coding Profiles</h3>
+<p>
+<a href="https://www.hackerrank.com/balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balasubramani285" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balasubramani285" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="balasubramani285" height="30" width="40" /></a>
+</p>
+---
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/balasubramani285/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/balasubramani285/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/balasubramani285/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/balasubramani285/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/balasubramani285?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
