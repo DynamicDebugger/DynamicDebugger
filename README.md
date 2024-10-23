@@ -2,7 +2,9 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dynamicdebugger&label=Profile%20views&color=0e75b6&style=flat" alt="dynamicdebugger" /> </p>
-
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/balasubramani285?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 <img align="right"  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 ### 🚀 About Me
