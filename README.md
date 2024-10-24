@@ -72,7 +72,7 @@
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/balasubramani285?theme=dark&font=Nunito&ext=activity" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/balasubramani285?theme=dark&font=Nunito&ext" />  
 </p>
 
 ---
