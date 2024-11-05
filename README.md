@@ -9,8 +9,8 @@
 - 🎓 Final Year Computer Science and Engineering Student  
 - 📍 Sathyabama Institute of Science and Technology, Chennai  
 - 🌱 Always learning, always building. Passionate about Java, Spring Boot, and Full-Stack development!
-- 🔭 I’m currently working on **ride-share application**
-- 🌱 I’m currently learning **Flutter for Mobile Application development**
+- 🔭 I’m currently working on **Hackhub**
+- 🌱 I’m currently learning **Go**
 - 👯 I’m looking to collaborate on **Java & full-stack projects**
 - 👨‍💻 All of my projects are available at [https://dynamicdebugger.github.io/PortFolio/](https://dynamicdebugger.github.io/PortFolio/)
 - 📫 How to reach me **balasubramani285@gmail.com**
