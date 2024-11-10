@@ -57,16 +57,18 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50"/> </a>
 
 #### Tools:
+<p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50"/> </a>
+</p>
 
 ---
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/balasubramani-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balasubramani-e"  width="50" /></a>
-<a href="https://www.hackerrank.com/balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balasubramani285"  width="50" /></a>
-<a href="https://www.leetcode.com/balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balasubramani285"  width="50" /></a>
-<a href="https://medium.com/@balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@balasubramani285" width="50" /></a>
+<a href="https://linkedin.com/in/balasubramani-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balasubramani-e"  width="40" /></a>
+<a href="https://www.hackerrank.com/balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balasubramani285"  width="40" /></a>
+<a href="https://www.leetcode.com/balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balasubramani285"  width="40" /></a>
+<a href="https://medium.com/@balasubramani285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@balasubramani285" width="40" /></a>
 </p>
 
 ---
